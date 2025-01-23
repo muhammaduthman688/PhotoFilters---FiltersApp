@@ -17,11 +17,6 @@ This repository demonstrates the implementation of **photo filters** in an Andro
   - **Sharpness Effect**
   - Custom convolution filters for advanced editing.
 
-- **Camera Integration:**
-  Capture images directly using the camera.
-
-- **Gallery Integration:**
-  Load images from the device gallery.
 
 - **Dynamic Image Editing:**
   Modify images dynamically with smooth and efficient performance.
@@ -37,11 +32,9 @@ This repository demonstrates the implementation of **photo filters** in an Andro
    - Represents the data and logic for applying image filters.
 
 2. **View:**
-   - Includes activities and fragments like:
+   - Includes activities like:
      - `MainActivity`
-     - `CameraActivity`
-     - `EditorActivity`
-     - `SecondHomeFragment`
+
 
 3. **ViewModel:**
    - Manages the UI-related data in a lifecycle-conscious way, ensuring that the UI remains responsive during changes.
