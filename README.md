@@ -46,3 +46,10 @@ This repository demonstrates the implementation of **photo filters** in an Andro
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/muhammaduthman688/PhotoFilters---FiltersApp.git
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+## **Contact me**
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/923472554151) [![Gmail](https://img.shields.io/badge/Email-muhammadusman688%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:muhammadusman688@gmail.com)
